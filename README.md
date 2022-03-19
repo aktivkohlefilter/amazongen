@@ -1,4 +1,4 @@
-># amazongen
+># amazoncardgen
 
 Amazon Store Card Generator 
 Generate Unlimited Store
